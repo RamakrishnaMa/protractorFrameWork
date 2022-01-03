@@ -1,0 +1,5 @@
+allure-results/
+target/screenshots/
+ProtractorTestReport.html
+xmlresults.xml
+conf/screenshots/chrome-demo calculator tests subtraction test.png
